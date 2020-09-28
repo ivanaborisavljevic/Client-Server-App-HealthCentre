@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Stefan/Documents/NetBeansProjects/20140235Server/src/niti/PokreniServer.java</file>
+            <file>file:/C:/Users/Stefan/Documents/NetBeansProjects/20140235Server/src/so/SOObrisiDoktora.java</file>
+            <file>file:/C:/Users/Stefan/Documents/NetBeansProjects/20140235Server/src/so/SOObrisiPacijenta.java</file>
+            <file>file:/C:/Users/Stefan/Documents/NetBeansProjects/20140235Server/src/so/SOUcitajPacijenta.java</file>
+            <file>file:/C:/Users/Stefan/Documents/NetBeansProjects/20140235Server/src/so/SOVratiListuPacijenata.java</file>
+            <file>file:/C:/Users/Stefan/Documents/NetBeansProjects/20140235Server/src/niti/ObradaZahteva.java</file>
+            <file>file:/C:/Users/Stefan/Documents/NetBeansProjects/20140235Server/src/so/SOIzmeniPacijenta.java</file>
+            <file>file:/C:/Users/Stefan/Documents/NetBeansProjects/20140235Server/src/so/SOZapamtiPregled.java</file>
+            <file>file:/C:/Users/Stefan/Documents/NetBeansProjects/20140235Server/src/so/SOVratiListuPregleda.java</file>
+            <file>file:/C:/Users/Stefan/Documents/NetBeansProjects/20140235Server/src/so/SOUcitajDoktora.java</file>
+            <file>file:/C:/Users/Stefan/Documents/NetBeansProjects/20140235Server/src/gui/ServerskaForma.java</file>
+            <file>file:/C:/Users/Stefan/Documents/NetBeansProjects/20140235Server/src/so/SOVratiListuSlobodnihDoktora.java</file>
+            <file>file:/C:/Users/Stefan/Documents/NetBeansProjects/20140235Server/src/so/SOZapamtiPacijenta.java</file>
+            <file>file:/C:/Users/Stefan/Documents/NetBeansProjects/20140235Server/src/so/OpstaSO.java</file>
+            <file>file:/C:/Users/Stefan/Documents/NetBeansProjects/20140235Server/src/so/SOUcitajPregled.java</file>
+            <file>file:/C:/Users/Stefan/Documents/NetBeansProjects/20140235Server/src/so/SOIzmeniDoktora.java</file>
+            <file>file:/C:/Users/Stefan/Documents/NetBeansProjects/20140235Server/src/so/SOVratiListuSpecijalizacija.java</file>
+            <file>file:/C:/Users/Stefan/Documents/NetBeansProjects/20140235Server/src/so/SONadjiSluzbenika.java</file>
+            <file>file:/C:/Users/Stefan/Documents/NetBeansProjects/20140235Server/src/niti/NitZatvaranje.java</file>
+            <file>file:/C:/Users/Stefan/Documents/NetBeansProjects/20140235Server/src/so/SOZapamtiDoktora.java</file>
+            <file>file:/C:/Users/Stefan/Documents/NetBeansProjects/20140235Server/src/so/SOVratiListuVrstaPregleda.java</file>
+            <file>file:/C:/Users/Stefan/Documents/NetBeansProjects/20140235Server/src/dbb/DBBroker.java</file>
+            <file>file:/C:/Users/Stefan/Documents/NetBeansProjects/20140235Server/src/gui/PodesavanjaForma.java</file>
+            <file>file:/C:/Users/Stefan/Documents/NetBeansProjects/20140235Server/src/dbb/UcitavanjePodesavanja.java</file>
+            <file>file:/C:/Users/Stefan/Documents/NetBeansProjects/20140235Server/src/kontroler/Kontroler.java</file>
+            <file>file:/C:/Users/Stefan/Documents/NetBeansProjects/20140235Server/src/so/SOVratiListuSmena.java</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                      <Component id="lblDatumRodjenja" min="-2" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="lblImePrezime" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="lblDrzava" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Component id="lblEvropska" alignment="0" min="-2" pref="73" max="-2" attributes="0"/>
+                  <Component id="lblSvetska" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblOlimpijske" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="lblValImePrezime" max="32767" attributes="0"/>
+                          <Component id="txtImePrezime" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="txtTelefon" alignment="0" max="32767" attributes="0"/>
+                          <Component id="lblValGradPrazno" alignment="0" max="32767" attributes="0"/>
+                          <Component id="txtGrad" alignment="0" max="32767" attributes="0"/>
+                          <Component id="lblValAdresaPrazno" alignment="0" max="32767" attributes="0"/>
+                          <Component id="txtAdresa" alignment="0" max="32767" attributes="0"/>
+                          <Component id="lblValDatumPre1900" alignment="0" max="32767" attributes="0"/>
+                          <Component id="lblValDatumPosleDanas" alignment="0" max="32767" attributes="0"/>
+                          <Component id="lblValDatumFormat" alignment="0" max="32767" attributes="0"/>
+                          <Component id="lblValDatumPrazno" alignment="0" max="32767" attributes="0"/>
+                          <Component id="txtDatumRodjenja" alignment="0" max="32767" attributes="0"/>
+                          <Component id="lblJmbgValBrCifara" alignment="0" max="32767" attributes="0"/>
+                          <Component id="lblValJmbgPrazno" alignment="0" max="32767" attributes="0"/>
+                          <Component id="txtJMBG" max="32767" attributes="0"/>
+                          <Component id="lblJmbgValSamoCifre" alignment="0" max="32767" attributes="0"/>
+                          <Component id="lblValTelefonPrazno" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="155" max="-2" attributes="0"/>
+              <Component id="btnSacuvajIzmene" pref="149" max="32767" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="btnOtkazi" min="-2" pref="71" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="77" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="173" max="-2" attributes="0"/>
+              <Component id="btnSacuvaj" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblImePrezime" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtImePrezime" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="lblValImePrezime" min="-2" pref="21" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblDrzava" alignment="3" min="-2" pref="22" max="-2" attributes="0"/>
+                  <Component id="txtJMBG" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="lblValJmbgPrazno" min="-2" pref="22" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="lblJmbgValBrCifara" min="-2" pref="24" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="lblJmbgValSamoCifre" min="-2" pref="23" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblDatumRodjenja" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtDatumRodjenja" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="lblValDatumPrazno" min="-2" pref="22" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="lblValDatumFormat" min="-2" pref="21" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="5" max="-2" attributes="0"/>
+              <Component id="lblValDatumPosleDanas" min="-2" pref="18" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="lblValDatumPre1900" min="-2" pref="21" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="txtAdresa" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblEvropska" alignment="3" min="-2" pref="21" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="lblValAdresaPrazno" min="-2" pref="21" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblSvetska" alignment="3" min="-2" pref="22" max="-2" attributes="0"/>
+                  <Component id="txtGrad" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="lblValGradPrazno" min="-2" pref="20" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="17" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblOlimpijske" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtTelefon" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="lblValTelefonPrazno" min="-2" pref="20" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="btnSacuvaj" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="btnSacuvajIzmene" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="btnOtkazi" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="36" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="lblImePrezime">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ime i prezime:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtImePrezime">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblDrzava">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="JMBG:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtJMBG">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtJMBGActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblDatumRodjenja">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Datum rodjenja:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtDatumRodjenja">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblEvropska">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Adresa:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtAdresa">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtAdresaActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblSvetska">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Grad:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtGrad">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblOlimpijske">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Telefon:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtTelefon">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnSacuvaj">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Sa&#x10d;uvaj"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnSacuvajActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnOtkazi">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Otka&#x17e;i"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnOtkaziActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnSacuvajIzmene">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Sacuvaj Izmene"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnSacuvajIzmeneActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblJmbgValBrCifara">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblJmbgValSamoCifre">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblValImePrezime">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblValDatumFormat">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblValDatumPosleDanas">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblValDatumPre1900">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblValJmbgPrazno">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblValDatumPrazno">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblValAdresaPrazno">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblValGradPrazno">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblValTelefonPrazno">
+    </Component>
+  </SubComponents>
+</Form>
