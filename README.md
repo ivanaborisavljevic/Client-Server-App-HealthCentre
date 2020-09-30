@@ -7,8 +7,7 @@ After a successful login, administrators can add new patients and doctors to the
 The main functionality is scheduling doctor's appointments where time, the medical area and a free doctor can be specified for a certain patient.
 After an appointment is finished, an administrator can edit the appointment information, by adding prescribed therapy and other details.
 ## Database schema
-![Alt text](database.png?raw=true "")
-
+![Alt text](images/database.png?raw=true "")
 ## Functionalities
 Some of the functionalities are presented in the following subsections.
 ### Login
@@ -20,8 +19,10 @@ Some of the functionalities are presented in the following subsections.
 ### Updating patient info
 ### Updating doctor info
 ### Adding new appointment
-![Alt text](images/zakazivanje pregleda2.png?raw=true "")
+![Alt text](images/zakazivanjepregleda2.png?raw=true "")
 ### Updating appointment info
+![Alt text](images/izmenapregleda.png?raw=true "")
+### Preview of patient appointments
 ![Alt text](images/prikazpregleda.png?raw=true "")
 ## Sidenote
 This project was an assignment as a part of the course - Software Engineering during the 7th semester at the Faculty of Organizational Sciences in Belgrade.
