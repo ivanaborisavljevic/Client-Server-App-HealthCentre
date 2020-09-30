@@ -12,12 +12,17 @@ After an appointment is finished, an administrator can edit the appointment info
 ## Functionalities
 Some of the functionalities are presented in the following subsections.
 ### Login
+![Alt text](images/loginsluzbenika.png?raw=true "")
 ### Adding new patient
+![Alt text](images/unospacijenta.png?raw=true "")
 ### Add new doctor
-### Modifying patient info
-### Modifying doctor info
+![Alt text](images/unosdoktora.png?raw=true "")
+### Updating patient info
+### Updating doctor info
 ### Adding new appointment
-### Modifying appointment
+![Alt text](images/zakazivanje pregleda2.png?raw=true "")
+### Updating appointment info
+![Alt text](images/prikazpregleda.png?raw=true "")
 ## Sidenote
 This project was an assignment as a part of the course - Software Engineering during the 7th semester at the Faculty of Organizational Sciences in Belgrade.
 ## Contributors
